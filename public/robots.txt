@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+Allow: /categories/
+Allow: /models/
+Allow: /guides/
+Allow: /about
+Allow: /contact
+Allow: /privacy-policy
+Allow: /terms-of-service
+Allow: /compliance
+Disallow: /api/
+Disallow: /_/
+
+# Primary Canonical Host
+Host: https://karachisescortgroup.site
+
+# Sitemap Location
+Sitemap: https://karachisescortgroup.site/sitemap.xml
