@@ -83,7 +83,7 @@ export const BookingModal: React.FC<BookingModalProps> = ({
             >
               <option value="VIP & Elite Escorts">VIP & Elite Escorts (PKR 120,000+)</option>
               <option value="Independent Escorts">Independent Escorts (PKR 50,000 - 90,000)</option>
-              <option value="Russian & International Escorts">Russian & International (PKR 80,000 - 150,000)</option>
+              <option value="International Escorts">International Escorts (PKR 80,000 - 150,000)</option>
               <option value="Premium Call Girls">Call Girls (PKR 35,000 - 60,000)</option>
             </select>
           </div>

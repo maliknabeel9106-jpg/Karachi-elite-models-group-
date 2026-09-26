@@ -24,19 +24,19 @@ export const ContactPage: React.FC<ContactPageProps> = ({ onOpenBooking, onNavig
   useEffect(() => {
     updatePageSeo({
       title: 'Contact Karachi Escorts | 24/7 Discreet Inquiries & Booking',
-      description: 'Contact Karachi Escorts via WhatsApp at 0340 2042663 or email info@karachisescortgroup.site. 24/7 confidential reservation desk for in-call & hotel outcalls in Karachi.',
+      description: 'Contact Karachi Escorts via WhatsApp at 0340 2042663 or email info@karachiescortvip.site. 24/7 confidential reservation desk for in-call & hotel outcalls in Karachi.',
       canonicalPath: '/contact',
       schema: {
         '@context': 'https://schema.org',
         '@type': 'ContactPage',
-        '@id': 'https://karachisescortgroup.site/contact#webpage',
-        url: 'https://karachisescortgroup.site/contact',
+        '@id': 'https://karachiescortvip.site/contact#webpage',
+        url: 'https://karachiescortvip.site/contact',
         name: 'Contact Karachi Escorts',
         description: 'Contact details and 24/7 customer service desk for Karachi Escorts.',
         isPartOf: {
           '@type': 'WebSite',
-          '@id': 'https://karachisescortgroup.site/#website',
-          url: 'https://karachisescortgroup.site/'
+          '@id': 'https://karachiescortvip.site/#website',
+          url: 'https://karachiescortvip.site/'
         }
       }
     });

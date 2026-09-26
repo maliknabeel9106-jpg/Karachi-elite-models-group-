@@ -40,7 +40,7 @@ export const HowToBook: React.FC<HowToBookProps> = ({ onOpenBooking, onOpenModel
             </h3>
             
             <p className="mt-3 text-xs sm:text-sm leading-relaxed text-[var(--text-secondary)]">
-              Browse our verified escorts in Karachi with authentic unretouched portraits and complete profiles. Check locations, rates, and availability. Filter by tier: <span className="text-rose-600 dark:text-rose-400 font-medium">VIP, Independent, Russian, or Call Girls</span>.
+              Browse our verified escorts in Karachi with authentic unretouched portraits and complete profiles. Check locations, rates, and availability. Filter by tier: <span className="text-rose-600 dark:text-rose-400 font-medium">VIP, Independent, International, or Call Girls</span>.
             </p>
 
             <button

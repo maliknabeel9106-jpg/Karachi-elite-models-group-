@@ -34,7 +34,7 @@ export const IntroOverview: React.FC<IntroOverviewProps> = ({ onOpenBooking, onO
           <div className="lg:col-span-7 space-y-5 text-[var(--text-secondary)]">
             
             <p className="text-sm sm:text-base leading-relaxed text-[var(--text-secondary)]">
-              Discover the finest companion and escort service in Karachi, where sophistication meets absolute discretion. Whether you are seeking <span className="font-semibold text-rose-600 dark:text-rose-400">VIP escorts</span>, independent companions, or stunning international and Russian escorts in Karachi, our verified models ensure complete confidentiality and unforgettable experiences. Available 24/7 for in-call and out-call across <span className="text-[var(--text-primary)] font-medium">DHA Phases 1–8, Clifton Blocks 1–9, Gulshan-e-Iqbal</span>, and premier five-star hotel properties.
+              Discover the finest companion and escort service in Karachi, where sophistication meets absolute discretion. Whether you are seeking <span className="font-semibold text-rose-600 dark:text-rose-400">VIP escorts</span>, independent companions, or stunning international models in Karachi, our verified models ensure complete confidentiality and unforgettable experiences. Available 24/7 for in-call and out-call across <span className="text-[var(--text-primary)] font-medium">DHA Phases 1–8, Clifton Blocks 1–9, Gulshan-e-Iqbal</span>, and premier five-star hotel properties.
             </p>
 
             <p className="text-sm sm:text-base leading-relaxed text-[var(--text-secondary)]">

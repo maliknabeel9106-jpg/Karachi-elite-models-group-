@@ -8,7 +8,7 @@ const __dirname = path.dirname(__filename);
 
 const app = express();
 const PORT = process.env.PORT || 3000;
-const PRIMARY_DOMAIN = 'karachisescortgroup.site';
+const PRIMARY_DOMAIN = 'karachiescortvip.site';
 
 // 1. 301 Canonical Domain & Normalization Redirect Middleware
 app.use((req: Request, res: Response, next: NextFunction) => {
@@ -17,6 +17,7 @@ app.use((req: Request, res: Response, next: NextFunction) => {
 
   // Domain redirect: from old domains or www.* to primary domain
   if (
+    host.includes('karachisescortgroup.site') ||
     host.includes('karachielitemodels.site') ||
     host.includes('karachiescort-elitemodels.site') ||
     host.includes('karachiescortgroup.com') ||

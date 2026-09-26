@@ -47,7 +47,7 @@ export const GuidePage: React.FC<GuidePageProps> = ({
       {
         '@context': 'https://schema.org',
         '@type': 'Article',
-        '@id': `https://karachisescortgroup.site/guides/${guide.slug}#article`,
+        '@id': `https://karachiescortvip.site/guides/${guide.slug}#article`,
         headline: guide.h1,
         description: guide.metaDescription,
         inLanguage: 'en-PK',
@@ -56,16 +56,16 @@ export const GuidePage: React.FC<GuidePageProps> = ({
         author: {
           '@type': 'Organization',
           name: 'Karachi Escorts Editorial Team',
-          url: 'https://karachisescortgroup.site/'
+          url: 'https://karachiescortvip.site/'
         },
         publisher: {
           '@type': 'Organization',
           name: 'Karachi Escorts',
-          url: 'https://karachisescortgroup.site/'
+          url: 'https://karachiescortvip.site/'
         },
         mainEntityOfPage: {
           '@type': 'WebPage',
-          '@id': `https://karachisescortgroup.site/guides/${guide.slug}`
+          '@id': `https://karachiescortvip.site/guides/${guide.slug}`
         }
       },
       {
@@ -76,19 +76,19 @@ export const GuidePage: React.FC<GuidePageProps> = ({
             '@type': 'ListItem',
             position: 1,
             name: 'Home',
-            item: 'https://karachisescortgroup.site/'
+            item: 'https://karachiescortvip.site/'
           },
           {
             '@type': 'ListItem',
             position: 2,
             name: 'Guides & Insights',
-            item: 'https://karachisescortgroup.site/#guides'
+            item: 'https://karachiescortvip.site/#guides'
           },
           {
             '@type': 'ListItem',
             position: 3,
             name: guide.h1,
-            item: `https://karachisescortgroup.site/guides/${guide.slug}`
+            item: `https://karachiescortvip.site/guides/${guide.slug}`
           }
         ]
       }

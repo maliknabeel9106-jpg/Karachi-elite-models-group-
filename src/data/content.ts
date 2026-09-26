@@ -20,11 +20,11 @@ export const serviceCategories: ServiceCategory[] = [
     image: '/images/WhatsApp%20Image%202026-09-14%20at%2011.01.53%20PM%20(1).jpeg'
   },
   {
-    id: 'russian-escorts',
-    title: 'Russian & International Escorts in Karachi',
+    id: 'international-escorts',
+    title: 'International Escorts in Karachi',
     subtitle: 'Exotic Global Beauty & Cosmopolitan Charm',
     description: 'Indulge in the allure of breathtaking international models. Featuring tall, statuesque figures, magnetic charm, and cosmopolitan sophistication for unforgettable evenings in Karachi’s most prestigious hotel suites.',
-    linkText: 'Browse Russian & International Escorts →',
+    linkText: 'Browse International Escorts →',
     badge: 'International Roster',
     image: '/images/WhatsApp%20Image%202026-09-14%20at%2011.01.53%20PM.jpeg'
   },
@@ -96,11 +96,11 @@ export const pricingTiers: PricingTier[] = [
     includes: 'Direct coordination, customized preferences, private apartment or hotel suite'
   },
   {
-    type: 'Russian & International Escorts in Karachi',
+    type: 'International Escorts in Karachi',
     rates: 'PKR 80,000 – 150,000',
     duration: 'Hourly / Multi-hour',
     popular: true,
-    includes: 'European/Russian models, 5-star hotel outcall, luxury dining accompaniment'
+    includes: 'European & international models, 5-star hotel outcall, luxury dining accompaniment'
   },
   {
     type: 'VIP Elite Karachi Escorts',
@@ -196,8 +196,8 @@ export const siteConfig = {
   tagline: 'Karachi Escorts | VIP Escorts in Karachi 24/7 Service',
   phone: '+92 340 2042663',
   phoneDisplay: '0340 2042663',
-  email: 'info@karachisescortgroup.site',
-  domain: 'karachisescortgroup.site',
+  email: 'info@karachiescortvip.site',
+  domain: 'karachiescortvip.site',
   address: 'Suite 12, Main Shahrah-e-Faisal, Karachi, Sindh – 75300, Pakistan',
   whatsappUrl: 'https://wa.me/923402042663?text=Hi%2C%20I%20want%20to%20book%20a%20Companion',
   hours: '24 Hours / 7 Days a Week'

@@ -12,7 +12,7 @@ export interface PageSeoProps {
   schema?: object | object[];
 }
 
-const BASE_DOMAIN = 'https://karachisescortgroup.site';
+const BASE_DOMAIN = 'https://karachiescortvip.site';
 const DEFAULT_IMAGE = 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=1200&auto=format&fit=crop';
 
 export function updatePageSeo({

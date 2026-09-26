@@ -75,9 +75,9 @@ export default function App() {
     } else if (catName.toLowerCase().includes('independent')) {
       setModelFilter('Independent');
       setSelectedCategory('Independent Escorts');
-    } else if (catName.toLowerCase().includes('russian') || catName.toLowerCase().includes('international')) {
-      setModelFilter('Russian / International');
-      setSelectedCategory('Russian & International Escorts');
+    } else if (catName.toLowerCase().includes('international')) {
+      setModelFilter('International');
+      setSelectedCategory('International Escorts');
     } else if (catName.toLowerCase().includes('call girl')) {
       setModelFilter('Call Girls');
       setSelectedCategory('Premium Call Girls');

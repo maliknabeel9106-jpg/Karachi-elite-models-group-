@@ -25,7 +25,7 @@ export const ModelsGalleryModal: React.FC<ModelsGalleryModalProps> = ({
 
   if (!isOpen) return null;
 
-  const categories = ['All', 'VIP', 'Independent', 'Russian / International', 'Call Girls'];
+  const categories = ['All', 'VIP', 'Independent', 'International', 'Call Girls'];
 
   const filteredModels = filter === 'All'
     ? modelsData

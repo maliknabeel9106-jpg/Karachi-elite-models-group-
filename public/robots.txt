@@ -12,7 +12,7 @@ Disallow: /api/
 Disallow: /_/
 
 # Primary Canonical Host
-Host: https://karachisescortgroup.site
+Host: https://karachiescortvip.site
 
 # Sitemap Location
-Sitemap: https://karachisescortgroup.site/sitemap.xml
+Sitemap: https://karachiescortvip.site/sitemap.xml

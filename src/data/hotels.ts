@@ -21,14 +21,14 @@ export const karachiHotelsList: HotelItem[] = [
     features: ['5-Star Luxury Suite Outcalls', 'Executive Lounge Meet', 'Discreet Private Check-In']
   },
   {
-    id: 'avari-hotel',
-    title: 'Escort In Avari Hotel Karachi',
-    hotelName: 'Avari Towers Hotel Karachi',
-    location: 'Fatima Jinnah Road, Karachi',
+    id: 'mariot-hotel',
+    title: 'Escort In Marriott Hotel Karachi',
+    hotelName: 'Karachi Marriott Hotel',
+    location: '9 Abdullah Haroon Road, Civil Lines, Karachi',
     stars: 5,
     imageUrl: '/images/hotels/avari-hotel.jpg',
-    description: 'Iconic multistory landmark hotel overlooking the Karachi skyline. VIP models available 24/7 for hotel appointments, dining accompaniment, and overnight stays.',
-    features: ['High-Rise Panoramic Suites', '24/7 Concierge Service', 'Unmarked Chauffeur Arrival']
+    description: 'Renowned 5-star destination frequented by international executives and diplomats. Seamless hotel suite dispatch with verified photo accuracy.',
+    features: ['Diplomatic & VIP Floor Outcalls', 'Executive Dining Escort', 'Strict Non-Disclosure Protocol']
   },
   {
     id: 'beach-luxury-hotel',
@@ -41,14 +41,14 @@ export const karachiHotelsList: HotelItem[] = [
     features: ['Waterfront Garden Ambiance', 'Relaxed Intimate Setting', 'Direct Room Delivery']
   },
   {
-    id: 'mariot-hotel',
-    title: 'Escort In Mariot Hotel Karachi',
-    hotelName: 'Karachi Marriott Hotel',
-    location: '9 Abdullah Haroon Road, Civil Lines, Karachi',
+    id: 'avari-hotel',
+    title: 'Escort In Avari Towers Hotel Karachi',
+    hotelName: 'Avari Towers Hotel Karachi',
+    location: 'Fatima Jinnah Road, Karachi',
     stars: 5,
     imageUrl: '/images/hotels/mariot-hotel.jpg',
-    description: 'Renowned 5-star destination frequented by international executives and diplomats. Seamless hotel suite dispatch with verified photo accuracy.',
-    features: ['Diplomatic & VIP Floor Outcalls', 'Executive Dining Escort', 'Strict Non-Disclosure Protocol']
+    description: 'Iconic multistory landmark hotel overlooking the Karachi skyline. VIP models available 24/7 for hotel appointments, dining accompaniment, and overnight stays.',
+    features: ['High-Rise Panoramic Suites', '24/7 Concierge Service', 'Unmarked Chauffeur Arrival']
   },
   {
     id: 'royal-inn-hotel',

@@ -3,7 +3,7 @@ export interface ModelProfile {
   name: string;
   age: number;
   height: string;
-  category: 'VIP' | 'Independent' | 'Russian / International' | 'Call Girls';
+  category: 'VIP' | 'Independent' | 'International' | 'Call Girls';
   location: string;
   languages: string[];
   hourlyRate: string;

@@ -84,7 +84,7 @@ export const PrivacyPage: React.FC<PrivacyPageProps> = ({ onNavigate }) => {
           <section className="space-y-3">
             <h2 className="font-cinzel text-xl font-bold text-[var(--text-primary)]">5. Contact Regarding Privacy Inquiries</h2>
             <p>
-              If you have any questions regarding our confidentiality practices or wish to confirm the deletion of any temporary inquiry records, you may reach our compliance officer directly at <strong className="text-[var(--text-primary)]">info@karachisescortgroup.site</strong>.
+              If you have any questions regarding our confidentiality practices or wish to confirm the deletion of any temporary inquiry records, you may reach our compliance officer directly at <strong className="text-[var(--text-primary)]">info@karachiescortvip.site</strong>.
             </p>
           </section>
         </div>

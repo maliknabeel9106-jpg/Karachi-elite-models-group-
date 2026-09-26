@@ -32,7 +32,7 @@ export const CategoryPage: React.FC<CategoryPageProps> = ({
   const categoryFilterMap: Record<string, string> = {
     'vip-escorts': 'VIP',
     'independent-escorts': 'Independent',
-    'russian-escorts': 'Russian / International',
+    'international-escorts': 'International',
     'call-girls': 'Call Girls'
   };
 
@@ -59,15 +59,15 @@ export const CategoryPage: React.FC<CategoryPageProps> = ({
       {
         '@context': 'https://schema.org',
         '@type': 'CollectionPage',
-        '@id': `https://karachisescortgroup.site/categories/${category.id}#webpage`,
-        url: `https://karachisescortgroup.site/categories/${category.id}`,
+        '@id': `https://karachiescortvip.site/categories/${category.id}#webpage`,
+        url: `https://karachiescortvip.site/categories/${category.id}`,
         name: title,
         description: description,
         inLanguage: 'en-PK',
         isPartOf: {
           '@type': 'WebSite',
-          '@id': 'https://karachisescortgroup.site/#website',
-          url: 'https://karachisescortgroup.site/',
+          '@id': 'https://karachiescortvip.site/#website',
+          url: 'https://karachiescortvip.site/',
           name: 'Karachi Escorts'
         }
       },
@@ -79,19 +79,19 @@ export const CategoryPage: React.FC<CategoryPageProps> = ({
             '@type': 'ListItem',
             position: 1,
             name: 'Home',
-            item: 'https://karachisescortgroup.site/'
+            item: 'https://karachiescortvip.site/'
           },
           {
             '@type': 'ListItem',
             position: 2,
             name: 'Categories',
-            item: 'https://karachisescortgroup.site/#categories'
+            item: 'https://karachiescortvip.site/#categories'
           },
           {
             '@type': 'ListItem',
             position: 3,
             name: category.title,
-            item: `https://karachisescortgroup.site/categories/${category.id}`
+            item: `https://karachiescortvip.site/categories/${category.id}`
           }
         ]
       }

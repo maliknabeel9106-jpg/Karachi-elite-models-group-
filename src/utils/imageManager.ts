@@ -20,7 +20,7 @@ export const MODEL_IMAGE_MAPPINGS: Record<string, ModelImageMapping> = {
   'anastasia-volkova': {
     id: 'anastasia-volkova',
     name: 'Anastasia Volkova',
-    category: 'Russian / International',
+    category: 'International',
     expectedFileNames: ['model-2.jpg', 'model-2.png', 'model-2.webp', 'model-2.jpeg', '2.jpg', '2.png', '2.webp', 'anastasia-volkova.jpg', 'anastasia.jpg', 'whatsapp image 2026-09-14 at 11.01.53 pm.jpeg']
   },
   'alizeh-shah': {
@@ -38,7 +38,7 @@ export const MODEL_IMAGE_MAPPINGS: Record<string, ModelImageMapping> = {
   'natasha-romanov': {
     id: 'natasha-romanov',
     name: 'Natasha Romanov',
-    category: 'Russian / International',
+    category: 'International',
     expectedFileNames: ['model-5.jpg', 'model-5.png', 'model-5.webp', 'model-5.jpeg', '5.jpg', '5.png', '5.webp', 'natasha-romanov.jpg', 'natasha.jpg', 'whatsapp image 2026-09-14 at 11.01.53 pm (3).jpeg']
   },
   'maha-sheikh': {
@@ -56,8 +56,8 @@ export const CATEGORY_IMAGE_MAPPINGS: Record<string, { expectedFileNames: string
   'independent-escorts': {
     expectedFileNames: ['category-2.jpg', 'category-2.png', 'category-2.webp', 'independent-escorts.jpg', 'independent.jpg']
   },
-  'russian-escorts': {
-    expectedFileNames: ['category-3.jpg', 'category-3.png', 'category-3.webp', 'russian-escorts.jpg', 'russian.jpg']
+  'international-escorts': {
+    expectedFileNames: ['category-3.jpg', 'category-3.png', 'category-3.webp', 'international-escorts.jpg', 'international.jpg']
   },
   'call-girls': {
     expectedFileNames: ['category-4.jpg', 'category-4.png', 'category-4.webp', 'call-girls.jpg', 'callgirls.jpg']

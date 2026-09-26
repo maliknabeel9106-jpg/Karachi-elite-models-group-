@@ -43,12 +43,12 @@ export const guidesData: GuideArticle[] = [
         heading: 'Transparent Rates & Pricing in Karachi',
         paragraphs: [
           'Pricing for companion services in Karachi varies depending on several quantifiable factors: the model’s experience tier, duration of the engagement, location (in-call apartment vs. 5-star hotel outcall), and special travel requirements. Understanding standard industry rates protects clients from overpaying or falling victim to fraudulent low-cost scams.',
-          'Standard starting rates for genuine companions in Karachi range between PKR 35,000 to PKR 60,000 for standard 1 to 2-hour bookings, while elite VIP escorts and international Russian models command rates between PKR 100,000 to PKR 150,000+ per hour, reflecting their rarity, education, and international social standing.'
+          'Standard starting rates for genuine companions in Karachi range between PKR 35,000 to PKR 60,000 for standard 1 to 2-hour bookings, while elite VIP escorts and international models command rates between PKR 100,000 to PKR 150,000+ per hour, reflecting their rarity, education, and international social standing.'
         ],
         bulletPoints: [
           'Standard / Call Girls: PKR 35,000 – 60,000 (1–2 Hours)',
           'Independent Companions: PKR 50,000 – 90,000 (Custom / 2–3 Hours)',
-          'Russian & International Models: PKR 80,000 – 150,000 (Hourly / Multi-hour)',
+          'International Models: PKR 80,000 – 150,000 (Hourly / Multi-hour)',
           'VIP Signature Tier: PKR 120,000+ (Executive Dinners & Overnight Arrangements)'
         ]
       },

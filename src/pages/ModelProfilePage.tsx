@@ -35,7 +35,7 @@ export const ModelProfilePage: React.FC<ModelProfilePageProps> = ({
   const getCategorySlug = (cat: string) => {
     if (cat.toLowerCase().includes('vip')) return 'vip-escorts';
     if (cat.toLowerCase().includes('independent')) return 'independent-escorts';
-    if (cat.toLowerCase().includes('russian') || cat.toLowerCase().includes('international')) return 'russian-escorts';
+    if (cat.toLowerCase().includes('international')) return 'international-escorts';
     if (cat.toLowerCase().includes('call girl')) return 'call-girls';
     return 'vip-escorts';
   };
@@ -60,22 +60,22 @@ export const ModelProfilePage: React.FC<ModelProfilePageProps> = ({
       {
         '@context': 'https://schema.org',
         '@type': 'ProfilePage',
-        '@id': `https://karachisescortgroup.site/models/${model.id}#webpage`,
-        url: `https://karachisescortgroup.site/models/${model.id}`,
+        '@id': `https://karachiescortvip.site/models/${model.id}#webpage`,
+        url: `https://karachiescortvip.site/models/${model.id}`,
         name: title,
         description: description,
         inLanguage: 'en-PK',
         isPartOf: {
           '@type': 'WebSite',
-          '@id': 'https://karachisescortgroup.site/#website',
-          url: 'https://karachisescortgroup.site/',
+          '@id': 'https://karachiescortvip.site/#website',
+          url: 'https://karachiescortvip.site/',
           name: 'Karachi Escorts'
         }
       },
       {
         '@context': 'https://schema.org',
         '@type': 'Person',
-        '@id': `https://karachisescortgroup.site/models/${model.id}#person`,
+        '@id': `https://karachiescortvip.site/models/${model.id}#person`,
         name: model.name,
         jobTitle: `${model.category} Model & Companion`,
         gender: 'Female',
@@ -88,7 +88,7 @@ export const ModelProfilePage: React.FC<ModelProfilePageProps> = ({
         worksFor: {
           '@type': 'LocalBusiness',
           name: 'Karachi Escorts',
-          url: 'https://karachisescortgroup.site/'
+          url: 'https://karachiescortvip.site/'
         },
         description: model.bio
       },
@@ -100,19 +100,19 @@ export const ModelProfilePage: React.FC<ModelProfilePageProps> = ({
             '@type': 'ListItem',
             position: 1,
             name: 'Home',
-            item: 'https://karachisescortgroup.site/'
+            item: 'https://karachiescortvip.site/'
           },
           {
             '@type': 'ListItem',
             position: 2,
             name: model.category,
-            item: `https://karachisescortgroup.site/categories/${categorySlug}`
+            item: `https://karachiescortvip.site/categories/${categorySlug}`
           },
           {
             '@type': 'ListItem',
             position: 3,
             name: model.name,
-            item: `https://karachisescortgroup.site/models/${model.id}`
+            item: `https://karachiescortvip.site/models/${model.id}`
           }
         ]
       }

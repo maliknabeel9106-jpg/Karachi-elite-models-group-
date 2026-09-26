@@ -78,7 +78,7 @@ export const CompliancePage: React.FC<CompliancePageProps> = ({ onNavigate }) =>
           <section className="space-y-3">
             <h2 className="font-cinzel text-xl font-bold text-[var(--text-primary)]">4. Reporting & Takedown Requests</h2>
             <p>
-              If you believe any content on this website infringes upon copyright, depicts non-consensual imagery, or violates legal guidelines, please submit an immediate notice to <strong className="text-[var(--text-primary)]">info@karachisescortgroup.site</strong>. We respond to all formal compliance inquiries within 24 business hours.
+              If you believe any content on this website infringes upon copyright, depicts non-consensual imagery, or violates legal guidelines, please submit an immediate notice to <strong className="text-[var(--text-primary)]">info@karachiescortvip.site</strong>. We respond to all formal compliance inquiries within 24 business hours.
             </p>
           </section>
         </div>

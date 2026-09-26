@@ -48,7 +48,7 @@ export const Footer: React.FC<FooterProps> = ({
           </p>
 
           <p className="mt-2 text-xs text-rose-600/90 dark:text-rose-400/80 font-medium">
-            VIP Escorts · Independent Beauties · Russian Models · Exclusive Call Girls across DHA &amp; Clifton
+            VIP Escorts · Independent Beauties · International Models · Exclusive Call Girls across DHA &amp; Clifton
           </p>
         </div>
 
@@ -105,11 +105,11 @@ export const Footer: React.FC<FooterProps> = ({
               </li>
               <li>
                 <a
-                  href="/categories/russian-escorts"
-                  onClick={(e) => handleLinkClick(e, '/categories/russian-escorts')}
+                  href="/categories/international-escorts"
+                  onClick={(e) => handleLinkClick(e, '/categories/international-escorts')}
                   className="hover:text-rose-600 dark:hover:text-rose-400 transition-colors block"
                 >
-                  Russian & International Escorts
+                  International Escorts
                 </a>
               </li>
               <li>

@@ -29,14 +29,14 @@ export const AboutPage: React.FC<AboutPageProps> = ({ onOpenBooking, onNavigate 
       schema: {
         '@context': 'https://schema.org',
         '@type': 'AboutPage',
-        '@id': 'https://karachisescortgroup.site/about#webpage',
-        url: 'https://karachisescortgroup.site/about',
+        '@id': 'https://karachiescortvip.site/about#webpage',
+        url: 'https://karachiescortvip.site/about',
         name: 'About Karachi Escorts',
         description: 'About Karachi Escorts adult modeling and premier companion agency.',
         isPartOf: {
           '@type': 'WebSite',
-          '@id': 'https://karachisescortgroup.site/#website',
-          url: 'https://karachisescortgroup.site/'
+          '@id': 'https://karachiescortvip.site/#website',
+          url: 'https://karachiescortvip.site/'
         }
       }
     });
