@@ -102,7 +102,7 @@ export const ContactPage: React.FC<ContactPageProps> = ({ onOpenBooking, onNavig
                 className="flex items-center justify-center gap-2 rounded-xl bg-emerald-600 px-6 py-3.5 text-xs sm:text-sm font-bold uppercase tracking-wider text-white hover:bg-emerald-500 transition-all shadow-lg shadow-emerald-950/50"
               >
                 <MessageSquare className="h-4 w-4" />
-                <span>Message 0340 2042663</span>
+                <span>Message 03074277717</span>
               </a>
             </div>
           </div>
