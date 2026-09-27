@@ -195,7 +195,7 @@ export const ModelsGalleryModal: React.FC<ModelsGalleryModalProps> = ({
                     </button>
 
                     <a
-                      href={`https://wa.me/923402042663?text=Hi%2C%20I%20am%20interested%20in%20booking%20${encodeURIComponent(model.name)}%20(${encodeURIComponent(model.category)})%20in%20Karachi.`}
+                      href={`https://wa.me/923074277717?text=Hi%2C%20I%20am%20interested%20in%20booking%20${encodeURIComponent(model.name)}%20(${encodeURIComponent(model.category)})%20in%20Karachi.`}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex min-h-[40px] min-w-[40px] items-center justify-center rounded-lg bg-emerald-600 p-2 text-white hover:bg-emerald-500 transition-colors"
