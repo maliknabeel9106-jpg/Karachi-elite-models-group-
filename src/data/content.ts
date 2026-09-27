@@ -194,11 +194,11 @@ export const faqs: FaqItem[] = [
 export const siteConfig = {
   name: 'Karachi Escorts',
   tagline: 'Karachi Escorts | VIP Escorts in Karachi 24/7 Service',
-  phone: '+92 340 2042663',
-  phoneDisplay: '0340 2042663',
+  phone: '+923074277717',
+  phoneDisplay: '0307 4277717',
   email: 'info@karachiescortvip.site',
   domain: 'karachiescortvip.site',
   address: 'Suite 12, Main Shahrah-e-Faisal, Karachi, Sindh – 75300, Pakistan',
-  whatsappUrl: 'https://wa.me/923402042663?text=Hi%2C%20I%20want%20to%20book%20a%20Companion',
+  whatsappUrl: 'https://wa.me/923074277717?text=Hi%2C%20I%20want%20to%20book%20a%20Companion',
   hours: '24 Hours / 7 Days a Week'
 };
