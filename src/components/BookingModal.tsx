@@ -36,7 +36,7 @@ export const BookingModal: React.FC<BookingModalProps> = ({
     e.preventDefault();
     const message = `Hello Karachi Elite Models,%0A%0AI would like to make an inquiry/booking:%0A• Category: ${encodeURIComponent(category)}%0A• Preferred Model: ${encodeURIComponent(preselectedModel || 'Open to recommendations')}%0A• Service Format: ${encodeURIComponent(serviceType)}%0A• Location/Hotel: ${encodeURIComponent(location)}%0A• Duration: ${encodeURIComponent(duration)}%0A• Scheduled Date/Time: ${encodeURIComponent(specificDate)}%0A• Client Alias: ${encodeURIComponent(clientName || 'Discreet VIP')}%0A${notes ? `• Special Requests: ${encodeURIComponent(notes)}%0A` : ''}%0APlease confirm availability, profile portfolio, and total rate.`;
 
-    const waLink = `https://wa.me/923402042663?text=${message}`;
+    const waLink = `https://wa.me/923074277717?text=${message}`;
     window.open(waLink, '_blank');
     onClose();
   };
